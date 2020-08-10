@@ -6,5 +6,7 @@ Zillow Home Value Prediction
 3. [03_Preprocessing.ipynb](https://github.com/Shreyanshj01/ZillowPricePortfolio/blob/master/03_Preprocessing.ipynb): Data Preprocessing Notebook.
 4. [04_ModelTuning.ipynb](https://github.com/Shreyanshj01/ZillowPricePortfolio/blob/master/04_ModelTuning.ipynb):Model Tuning notebook(HyperParameters tuning of GBM model).
 5. [05_FitFinalModel.ipynb](https://github.com/Shreyanshj01/ZillowPricePortfolio/blob/master/05_FitFinalModel.ipynb): Final Model Implementation using pipeline.
+6. [modules](https://github.com/Shreyanshj01/ZillowPricePortfolio/tree/master/modules): Custom scripts used.
+7. [models](https://github.com/Shreyanshj01/ZillowPricePortfolio/tree/master/models): Pickle file of models
 
-###### Note:https://www.kaggle.com/c/zillow-prize-1/data
+###### Note:Get raw data from https://www.kaggle.com/c/zillow-prize-1/data
